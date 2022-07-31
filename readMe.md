@@ -1,3 +1,6 @@
+This is from 3rd edition book
+For Javascript
+
 //Preparing our working folder
 mkdir ch2
 cd ch2
